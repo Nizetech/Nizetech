@@ -1,4 +1,3 @@
-Yes — I understand. You want the **actual `README.md` HTML/Markdown style**, matching the format you already use, not the plain Markdown version I gave earlier.
 <h1>Hi, I'm Fortune Nwanchokor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3>Senior Flutter Developer | Mobile Application Engineer</h3>
