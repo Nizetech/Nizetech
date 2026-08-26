@@ -1,18 +1,4 @@
 Yes — I understand. You want the **actual `README.md` HTML/Markdown style**, matching the format you already use, not the plain Markdown version I gave earlier.
-
-I would also fix a few things in your current version:
-
-* Remove unnecessary old technologies like **Java, Kotlin and Illustrator** if you don't actively use them.
-* Correct the Adobe XD link — it's currently pointing to Figma.
-* Add **Riverpod, Bloc, Provider, REST API, Firebase, Paystack, Stripe, RevenueCat, Git/GitHub**.
-* Make your introduction more recruiter-focused.
-* Add a **Featured Projects** section.
-* Add your **Google Play apps**.
-* Make your availability clear.
-* Keep the GitHub stats, but make the overall page cleaner.
-
-Here's the version I'd recommend:
-
 <h1>Hi, I'm Fortune Nwanchokor <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3>Senior Flutter Developer | Mobile Application Engineer</h3>
