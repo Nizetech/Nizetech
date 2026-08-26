@@ -197,7 +197,7 @@ If you're looking for a developer who can take a mobile application from <b>idea
 </p>
 
 <p>
-📄 <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8](https://nizetech1.netlify.app/"><b>View My Portfolio</b></a>
+📄 <a href="https://nizetech1.netlify.app/"><b>View My Portfolio</b></a>
 </p>
 
 <br>
